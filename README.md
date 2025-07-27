@@ -1,4 +1,4 @@
-# READ ME
+# About
 
 This demo shows how to do spectrual scan, and switches frequency bands accordingly.
 It bases on Chirpstack NS v3, sx1302_hal v2.1.0 and Python3.
